@@ -1,0 +1,16 @@
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\obj\Debug\ImpotsBDD.csprojResolveAssemblyReference.cache
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\obj\Debug\MainWindow.g.cs
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\obj\Debug\App.g.cs
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\obj\Debug\ImpotsBDD_MarkupCompile.cache
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\obj\Debug\ImpotsBDD_MarkupCompile.lref
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\bin\Debug\ImpotsBDD.exe.config
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\bin\Debug\ImpotsBDD.exe
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\bin\Debug\ImpotsBDD.pdb
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\obj\Debug\MainWindow.baml
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\obj\Debug\ImpotsBDD.g.resources
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\obj\Debug\ImpotsBDD.Properties.Resources.resources
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\obj\Debug\ImpotsBDD.csproj.GenerateResource.Cache
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\obj\Debug\ImpotsBDD.csproj.CoreCompileInputs.cache
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\obj\Debug\ImpotsBDD.exe
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\obj\Debug\ImpotsBDD.pdb
+C:\Users\thian\source\repos\ImpotsLST\ImpotsBDD\bin\Debug\MySql.Data.dll
